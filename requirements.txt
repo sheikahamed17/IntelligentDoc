@@ -1,0 +1,8 @@
+streamlit
+ollama
+pypdf
+requests
+beautifulsoup4
+chromadb
+langchain-text-splitters
+google-generativeai
